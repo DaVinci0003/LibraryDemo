@@ -81,8 +81,9 @@ This project is a demonstration of my knowledge for web application development 
 <img src="https://github.com/DaVinci0003/LibraryDemo/blob/main/images/addBook-example.png" alt="onlineLibrary" width="700px">
 </div>
 
+<div align="center">
 <img src="https://github.com/DaVinci0003/LibraryDemo/blob/main/images/boodAdded-example.png" alt="onlineLibrary" width="300px">
-
+</div>
 
 ---
 
