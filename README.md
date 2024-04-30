@@ -19,7 +19,7 @@
 
 ![screenshot](https://github.com/DaVinci0003/LibraryDemo/blob/main/images/img.png)
 
-## Built With
+## 🛠️ Built With
 
 <div align="center">
   
@@ -32,7 +32,7 @@
 
 </div>
 
- The project was built using various components of Spring Boot, including MVC architecture, JPA with Hibernate for database interaction, MySQL for data storage, and integrated HTML, CSS, and Bootstrap for front-end development within the Spring Boot framework.
+The project is just to show what I can do, it is not meant to be deployed.I built it using Spring Boot, MVC architecture, JPA with Hibernate for database interaction, MySQL for data storage, and integrated HTML, CSS, and Bootstrap for front-end development within the Spring Boot framework.
 
  * Spring Boot: Leveraging the power of Spring Boot for rapid application development and easy integration of Spring functionalities.
  * MVC Architecture: The project follows the Model-View-Controller architectural pattern, ensuring a separation of concerns and making the application easier to maintain and extend.
@@ -45,17 +45,17 @@
 ---
 
 
-## Description
+## 📋 Description
 
 This project is a demonstration of my knowledge for web application development with Spring Boot, it was built utilizing various Spring functionalities and adhering to the MVC architecture. The primary objective was to create a maintainable and scalable web application that interacts with a SQL database and then deploy it to AWS.
 
-## Functionalities
+## 📱 Functionalities
 
 * Book Management: Users can perform CRUD operations (Create, Read, Update, Delete) on books stored in the database. This includes adding new books, updating existing book information, and removing books from the library.
 
 * Wishlist: Users have the ability to add books to their wishlist, making it convenient to keep track of books they're interested in reading.
 
-## Example
+## 📷 Examples
 
 * The 'All Books' page of the project retrieves all book entries from the database dynamically. This process is facilitated by Thymeleaf, which aids in generating dynamic HTML content:
 
@@ -77,7 +77,9 @@ This project is a demonstration of my knowledge for web application development 
 
 * When you try to add a book, this form will appear and after pressing "Submit", Hibernate will update the database:
 
-<img src="https://github.com/DaVinci0003/LibraryDemo/blob/main/images/addBook-example.png" alt="onlineLibrary" width="600px"><img src="https://github.com/DaVinci0003/LibraryDemo/blob/main/images/boodAdded-example.png" alt="onlineLibrary" width="300px">
+<img src="https://github.com/DaVinci0003/LibraryDemo/blob/main/images/addBook-example.png" alt="onlineLibrary" width="500px">
+
+<img src="https://github.com/DaVinci0003/LibraryDemo/blob/main/images/boodAdded-example.png" alt="onlineLibrary" width="300px">
 
 
 ---
