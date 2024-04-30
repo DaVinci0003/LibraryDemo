@@ -32,7 +32,7 @@
 
 </div>
 
-The project is just to show what I can do, it is not meant to be deployed.I built it using Spring Boot, MVC architecture, JPA with Hibernate for database interaction, MySQL for data storage, and integrated HTML, CSS, and Bootstrap for front-end development within the Spring Boot framework.
+This project was built with Spring Boot, MVC architecture, JPA with Hibernate for database interaction, MySQL for data storage, and integrated HTML, CSS, and Bootstrap for front-end development within the Spring Boot framework.
 
  * Spring Boot: Leveraging the power of Spring Boot for rapid application development and easy integration of Spring functionalities.
  * MVC Architecture: The project follows the Model-View-Controller architectural pattern, ensuring a separation of concerns and making the application easier to maintain and extend.
@@ -77,7 +77,9 @@ This project is a demonstration of my knowledge for web application development 
 
 * When you try to add a book, this form will appear and after pressing "Submit", Hibernate will update the database:
 
-<img src="https://github.com/DaVinci0003/LibraryDemo/blob/main/images/addBook-example.png" alt="onlineLibrary" width="500px">
+<div align="center">
+<img src="https://github.com/DaVinci0003/LibraryDemo/blob/main/images/addBook-example.png" alt="onlineLibrary" width="700px">
+</div>
 
 <img src="https://github.com/DaVinci0003/LibraryDemo/blob/main/images/boodAdded-example.png" alt="onlineLibrary" width="300px">
 
