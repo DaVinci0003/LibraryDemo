@@ -1,0 +1,11 @@
+body {
+    background-image: url('../images/library_ready.png');
+    /* Additional properties to control how the background image behaves */
+    background-size: cover; /* Ensures the image covers the entire background */
+    background-position: top; /* Centers the image */
+    background-repeat: no-repeat; /* Prevents the image from repeating */
+}
+h1, h6 {
+    padding: 1em;
+    font-family: 'Roboto', sans-serif;
+}
