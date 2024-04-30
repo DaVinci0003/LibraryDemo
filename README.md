@@ -14,7 +14,7 @@
   <a href="#built-with">Built With</a> •
   <a href="#description">Description</a> •
   <a href="#functionalities">Functionalities</a> •
-  <a href="#example">Example</a> •
+  <a href="#example">Example</a> 
 </p>
 
 ![screenshot](https://github.com/DaVinci0003/LibraryDemo/blob/main/images/img.png)
@@ -23,7 +23,7 @@
 
 <div align="center">
   
-[![Spring][Spring-Boot]][Spring-url]
+![Spring][Spring-Boot]
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -46,7 +46,8 @@
 
 
 ## Description
-Welcome to our Online Library! This project is a demonstration of a web application built with Spring Boot, utilizing various Spring functionalities and adhering to the MVC architecture. The primary objective was to create a maintainable and scalable web application that interacts with a SQL database.
+
+This project is a demonstration of my knowledge for web application development with Spring Boot, it was built utilizing various Spring functionalities and adhering to the MVC architecture. The primary objective was to create a maintainable and scalable web application that interacts with a SQL database and then deploy it to AWS.
 
 ## Functionalities
 
@@ -56,7 +57,7 @@ Welcome to our Online Library! This project is a demonstration of a web applicat
 
 ## Example
 
-* The project "All Books" page fetches all the books from the database using dynamic HTML with the help of the thymeleaf 
+* The 'All Books' page of the project retrieves all book entries from the database dynamically. This process is facilitated by Thymeleaf, which aids in generating dynamic HTML content:
 
 <div align="center">
 <img src="https://github.com/DaVinci0003/LibraryDemo/blob/main/images/AllBooks-example.png" alt="onlineLibrary" width="700px">  
@@ -64,13 +65,20 @@ Welcome to our Online Library! This project is a demonstration of a web applicat
 
 <br>
 
-* And this is a screenshot of the database from where it fetches the data:
+* And this is a screenshot of the relational database from where it fetches the data:
 
 <br>
 
 <div align="center">
 <img src="https://github.com/DaVinci0003/LibraryDemo/blob/main/images/MySQL-example.png" alt="onlineLibrary" width="700px">
 </div>
+
+---
+
+* When you try to add a book, this form will appear and after pressing "Submit", Hibernate will update the database:
+
+<img src="https://github.com/DaVinci0003/LibraryDemo/blob/main/images/addBook-example.png" alt="onlineLibrary" width="600px"><img src="https://github.com/DaVinci0003/LibraryDemo/blob/main/images/boodAdded-example.png" alt="onlineLibrary" width="300px">
+
 
 ---
 
